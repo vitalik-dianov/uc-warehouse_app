@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vitalik-dianov/uc-warehouse_app/static/css/main.7acaea2f.css",
-    "main.js": "/vitalik-dianov/uc-warehouse_app/static/js/main.07d3183d.js",
-    "index.html": "/vitalik-dianov/uc-warehouse_app/index.html",
-    "main.7acaea2f.css.map": "/vitalik-dianov/uc-warehouse_app/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/vitalik-dianov/uc-warehouse_app/static/js/main.07d3183d.js.map"
+    "main.css": "/uc-warehouse_app/static/css/main.7acaea2f.css",
+    "main.js": "/uc-warehouse_app/static/js/main.e61327bd.js",
+    "index.html": "/uc-warehouse_app/index.html",
+    "main.7acaea2f.css.map": "/uc-warehouse_app/static/css/main.7acaea2f.css.map",
+    "main.e61327bd.js.map": "/uc-warehouse_app/static/js/main.e61327bd.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.e61327bd.js"
   ]
 }
