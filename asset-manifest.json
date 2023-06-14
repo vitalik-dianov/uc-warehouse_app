@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uc-warehouse_app/static/css/main.7acaea2f.css",
+    "main.js": "/uc-warehouse_app/static/js/main.e61327bd.js",
+    "index.html": "/uc-warehouse_app/index.html",
+    "main.7acaea2f.css.map": "/uc-warehouse_app/static/css/main.7acaea2f.css.map",
+    "main.e61327bd.js.map": "/uc-warehouse_app/static/js/main.e61327bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e61327bd.js"
+  ]
+}
